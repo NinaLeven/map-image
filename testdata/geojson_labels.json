@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Point",
+    "coordinates": [
+      -121.12901,
+      50.89529
+    ]
+  },
+  {
+    "type": "Point",
+    "coordinates": [
+      -117.59142,
+      51.5011
+    ]
+  },
+  {
+    "type": "Point",
+    "coordinates": [
+      -113.68028,
+      49.58851
+    ]
+  }
+]
