@@ -1,3 +1,3 @@
-module github.com/NinaLeven/map-image.git
+module github.com/NinaLeven/map-image
 
 require github.com/paulmach/go.geojson v1.4.0
